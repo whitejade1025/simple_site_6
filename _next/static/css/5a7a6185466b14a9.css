@@ -1,0 +1,42 @@
+.style_section__Qicsr {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 10;
+  pointer-events: none;
+}
+.style_section__Qicsr .style_side__6JqR1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url(/front.jpg);
+  background-size: cover;
+  background-position: 50%;
+  transition: transform 0.3s ease-out;
+}
+@media (max-width: 1023px) {
+  .style_section__Qicsr .style_side__6JqR1 {
+    background: url(/logo.jpg);
+    background-size: cover;
+    background-position: 50%;
+  }
+}
+.style_li___nj_R {
+  list-style: none;
+}
+.style_keep-in-pool__b_pyl,
+.style_leaderboard__qNJRT {
+  background: #1b1b1b;
+  border: 2px solid #3ed44f;
+  border-radius: 10px;
+  color: #3ed44f;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-collapse: separate;
+  border-spacing: 2px;
+  text-align: center;
+}
