@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Barking Puppy",
+                        children: "Elon Coin",
                       }),
                     ],
                   }),
