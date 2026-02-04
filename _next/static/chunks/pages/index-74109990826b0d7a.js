@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0xcomingsoon"
+                              "0x1ff5511f30cd2939eff1d31d300c885620d2b138"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,7 +764,7 @@
                               });
                           }, 
                           children:
-                            "CA: 0xcomingsoon",
+                            "CA: 0x1ff5511f30cd2939eff1d31d300c885620d2b138",
                         }),
                       }), 
                       (0, R.jsxs)("div", {
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                            href: "https://dexscreener.com/ethereum/0x1ff5511f30cd2939eff1d31d300c885620d2b138",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xcomingsoon",
+                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0x1ff5511f30cd2939eff1d31d300c885620d2b138",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
