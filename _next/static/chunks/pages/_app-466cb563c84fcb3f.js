@@ -21239,7 +21239,7 @@
                         }),
                         (0, We.jsx)("a", {
                           className: "text-[#3ed44f] text-4xl",
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8Ee70735bF749208619b0f8e7dD40c75E8e64eE8",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                           target: "_blank",
                           children: "Buy Now",
                         }),

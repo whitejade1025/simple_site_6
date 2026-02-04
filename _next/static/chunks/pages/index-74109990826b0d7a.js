@@ -742,12 +742,12 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://x.com/chamath/status/2017007422905430300?s=20",
+                      href: "https://clawstr.com/",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.jpg",
+                        src: "/aaa.png",
                       }),
-                    }),
+                    }), 
                       
                       (0, R.jsx)("div", {
                         className: "flex items-center justify-center mb-4",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x8Ee70735bF749208619b0f8e7dD40c75E8e64eE8"
+                              "0xcomingsoon"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           }, 
                           children:
-                            "CA: 0x8Ee70735bF749208619b0f8e7dD40c75E8e64eE8",
+                            "CA: 0xcomingsoon",
                         }),
                       }), 
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/ElonCoin_ELON",
+                            href: "https://t.me/Clawstraiagent",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }), 
                           (0, R.jsx)("a", {
-                            href: "https://x.com/ElonCoinELONEth",
+                            href: "https://x.com/Clawstraiagent",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0x8Ee70735bF749208619b0f8e7dD40c75E8e64eE8",
+                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0x8Ee70735bF749208619b0f8e7dD40c75E8e64eE8",
+                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Elon Coin",
+                        children: "Clawstr",
                       }),
                     ],
                   }),

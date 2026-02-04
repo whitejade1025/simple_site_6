@@ -13,14 +13,14 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(/front.jpg);
+  background: url(/front.png);
   background-size: cover;
   background-position: 50%;
   transition: transform 0.3s ease-out;
 }
 @media (max-width: 1023px) {
   .style_section__Qicsr .style_side__6JqR1 {
-    background: url(/logo.jpg);
+    background: url(/logo.png);
     background-size: cover;
     background-position: 50%;
   }
